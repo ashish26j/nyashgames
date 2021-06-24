@@ -1,4 +1,4 @@
-word = "G"
+word = "secret"
 
 Allowed_errors = 7
 guesses = []
